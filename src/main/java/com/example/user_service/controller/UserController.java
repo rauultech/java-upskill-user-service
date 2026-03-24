@@ -1,11 +1,9 @@
 package com.example.user_service.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.example.user_service.dto.ApiResponse;
-import com.example.user_service.dto.ProductDto;
 import com.example.user_service.entity.User;
 import com.example.user_service.services.UserService;
 

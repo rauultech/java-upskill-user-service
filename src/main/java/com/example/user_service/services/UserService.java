@@ -8,7 +8,6 @@ import org.springframework.stereotype.Service;
 
 import com.example.user_service.client.ProductClient;
 import com.example.user_service.dto.ApiResponse;
-import com.example.user_service.dto.ProductDto;
 import com.example.user_service.entity.User;
 import com.example.user_service.repository.UserRepository;
 
